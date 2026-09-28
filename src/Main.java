@@ -1,7 +1,21 @@
 import java.util.Scanner;
-
 public class Main {
     static void main() {
+         /*
+         class TheaterKiosk
+             main()
+            // Declare variables
+            num userAge
+            // Input section
+            output "Please enter your age: "
+            input userAge
+            // Conditional logic (Simple If)
+            if userAge >= 21 then
+               output "You get a paper wrist band."
+            end if
+            return
+        end class
+        */
         Scanner scanner = new Scanner(System.in);
         System.out.print("What is your age: ");
         int age = scanner.nextInt();
