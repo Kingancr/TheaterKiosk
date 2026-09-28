@@ -4,15 +4,18 @@ public class Main {
          /*
          class TheaterKiosk
              main()
-            // Declare variables
-            num userAge
-            // Input section
-            output "Please enter your age: "
-            input userAge
-            // Conditional logic (Simple If)
-            if userAge >= 21 then
-               output "You get a paper wrist band."
-            end if
+                // Declare variables
+                num userAge
+                // Input section
+                output "What is your age: "
+                input userAge
+                // Conditional logic (Simple If)
+                if userAge >= 21 then
+                   output "You get a paper wrist band."
+                end if
+                else
+                    Output "You don't get a paper wrist band."
+                end else
             return
         end class
         */
