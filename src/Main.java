@@ -21,9 +21,9 @@ public class Main {
         */
         Scanner scanner = new Scanner(System.in);
         System.out.print("What is your age: ");
-        int age = scanner.nextInt();
+        int userAge = scanner.nextInt();
 
-        if (age >= 21) {
+        if (userAge >= 21) {
             System.out.println("You get a paper wrist band");
         }
         else {
